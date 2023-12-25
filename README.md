@@ -1,5 +1,10 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE5E5&height=220&section=header&text=Hello%20I'm%20Jessie!&desc=Welcome%20to%20my%20page%20🙋🏻‍♀️&fontSize=60&fontColor=756AB6&fontAlignY=45&descAlignY=63" />
+  <br />
+  <br />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jessie1944" />
+  <br />
+  <br />
   <h3>⚙️ Skills</h3>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
