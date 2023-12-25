@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE5E5&height=220&section=header&text=Hello%20I'm%20Jessie!&desc=Welcome%20to%20my%20page%20🙋🏻‍♀️&fontSize=60&fontColor=756AB6&fontAlignY=45&descAlignY=63" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE5E5&height=240&section=header&text=Hello%20I'm%20Jessie!&desc=Welcome%20to%20my%20page%20🙋🏻‍♀️&fontSize=60&fontColor=756AB6&descAlignY=65" />
   <br />
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jessie1944" />
   <br />
@@ -30,4 +30,5 @@
     <a href="https://velog.io/@jess_apr"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
     <a href="http://jess-apr.s3-website.ap-northeast-2.amazonaws.com"><img src="https://img.shields.io/badge/Portfolio-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
   </div>
+  <br />
 </div>
