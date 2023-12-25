@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE5E5&height=210&section=header&text=Hello%20I'm%20Jessie!&desc=Welcome%20to%20my%20page%20🙋🏻‍♀️&fontSize=60&fontColor=756AB6&fontAlignY=45&descAlignY=63" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE5E5&height=220&section=header&text=Hello%20I'm%20Jessie!&desc=Welcome%20to%20my%20page%20🙋🏻‍♀️&fontSize=60&fontColor=756AB6&fontAlignY=45&descAlignY=63" />
   <h3>⚙️ Skills</h3>
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -23,7 +23,7 @@
   </div>
   <h3>⭐️ Channels</h3>
   <div>
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Portfolio-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+    <a href="https://velog.io/@jess_apr"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+    <a href="http://jess-apr.s3-website.ap-northeast-2.amazonaws.com"><img src="https://img.shields.io/badge/Portfolio-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
   </div>
 </div>
