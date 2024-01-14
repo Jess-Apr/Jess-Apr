@@ -1,7 +1,7 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE5E5&height=240&section=header&text=Hello%20I'm%20Jessie!&desc=Welcome%20to%20my%20page%20🙋🏻‍♀️&fontSize=60&fontColor=756AB6&fontAlignY=46&descAlignY=63" />
   <br />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jessie1944" />
+  <a href="https://solved.ac/profile/jessie1944" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jessie1944" /></a>
   <br />
   <br />
   <h3>⚙️ Skills</h3>
