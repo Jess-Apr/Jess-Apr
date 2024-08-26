@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE5E5&height=240&section=header&fontSize=60&fontColor=756AB6&fontAlignY=46&descAlignY=63" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE5E5&height=240&section=header&text=Hello%20I'm%20Jessie!&desc=Welcome%20to%20my%20page%20🙋🏻‍♀️&fontSize=60&fontColor=756AB6&fontAlignY=46&descAlignY=63" />
   <br />
   <a href="https://solved.ac/profile/jessie1944" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jessie1944" /></a>
   <br />
@@ -8,7 +8,10 @@
   <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React Native-21232A?style=for-the-badge&logo=react&logoColor=white"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
