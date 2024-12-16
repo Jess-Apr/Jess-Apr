@@ -31,6 +31,7 @@
   <h3>⭐️ Channels</h3>
   <div>
     <a href="https://velog.io/@jess_apr"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+    <a href="https://jess-apr.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
   </div>
   <h3>✉️ Contacts</h3>
   <div>
